@@ -1,0 +1,541 @@
+date,cloud_provider,service,cost,currency
+2026-08-27,Azure,Virtual Machines,70.15,USD
+2026-08-27,Azure,Blob Storage,62.87,USD
+2026-08-27,Azure,Azure SQL Database,62.08,USD
+2026-08-27,Azure,Azure Functions,80.46,USD
+2026-08-27,Azure,Managed Disks,59.12,USD
+2026-08-27,Azure,Azure Monitor,115.75,USD
+2026-08-28,Azure,Virtual Machines,107.28,USD
+2026-08-28,Azure,Blob Storage,35.66,USD
+2026-08-28,Azure,Azure SQL Database,128.36,USD
+2026-08-28,Azure,Azure Functions,98.61,USD
+2026-08-28,Azure,Managed Disks,53.36,USD
+2026-08-28,Azure,Azure Monitor,70.33,USD
+2026-08-29,Azure,Virtual Machines,134.84,USD
+2026-08-29,Azure,Blob Storage,135.05,USD
+2026-08-29,Azure,Azure SQL Database,92.23,USD
+2026-08-29,Azure,Azure Functions,84.2,USD
+2026-08-29,Azure,Managed Disks,93.75,USD
+2026-08-29,Azure,Azure Monitor,38.77,USD
+2026-08-30,Azure,Virtual Machines,74.9,USD
+2026-08-30,Azure,Blob Storage,106.26,USD
+2026-08-30,Azure,Azure SQL Database,154.52,USD
+2026-08-30,Azure,Azure Functions,132.14,USD
+2026-08-30,Azure,Managed Disks,83.93,USD
+2026-08-30,Azure,Azure Monitor,159.33,USD
+2026-08-31,Azure,Virtual Machines,47.77,USD
+2026-08-31,Azure,Blob Storage,102.84,USD
+2026-08-31,Azure,Azure SQL Database,51.5,USD
+2026-08-31,Azure,Azure Functions,136.61,USD
+2026-08-31,Azure,Managed Disks,61.77,USD
+2026-08-31,Azure,Azure Monitor,83.1,USD
+2026-09-01,Azure,Virtual Machines,103.66,USD
+2026-09-01,Azure,Blob Storage,69.83,USD
+2026-09-01,Azure,Azure SQL Database,74.14,USD
+2026-09-01,Azure,Azure Functions,124.26,USD
+2026-09-01,Azure,Managed Disks,25.49,USD
+2026-09-01,Azure,Azure Monitor,42.37,USD
+2026-09-02,Azure,Virtual Machines,97.81,USD
+2026-09-02,Azure,Blob Storage,105.44,USD
+2026-09-02,Azure,Azure SQL Database,70.44,USD
+2026-09-02,Azure,Azure Functions,99.89,USD
+2026-09-02,Azure,Managed Disks,69.31,USD
+2026-09-02,Azure,Azure Monitor,107.62,USD
+2026-09-03,Azure,Virtual Machines,87.32,USD
+2026-09-03,Azure,Blob Storage,74.22,USD
+2026-09-03,Azure,Azure SQL Database,19.33,USD
+2026-09-03,Azure,Azure Functions,40.57,USD
+2026-09-03,Azure,Managed Disks,49.56,USD
+2026-09-03,Azure,Azure Monitor,23.08,USD
+2026-09-04,Azure,Virtual Machines,40.79,USD
+2026-09-04,Azure,Blob Storage,111.49,USD
+2026-09-04,Azure,Azure SQL Database,144.05,USD
+2026-09-04,Azure,Azure Functions,33.62,USD
+2026-09-04,Azure,Managed Disks,20.59,USD
+2026-09-04,Azure,Azure Monitor,159.99,USD
+2026-09-05,Azure,Virtual Machines,97.63,USD
+2026-09-05,Azure,Blob Storage,108.54,USD
+2026-09-05,Azure,Azure SQL Database,28.27,USD
+2026-09-05,Azure,Azure Functions,69.72,USD
+2026-09-05,Azure,Managed Disks,113.68,USD
+2026-09-05,Azure,Azure Monitor,116.58,USD
+2026-09-06,Azure,Virtual Machines,116.46,USD
+2026-09-06,Azure,Blob Storage,97.48,USD
+2026-09-06,Azure,Azure SQL Database,66.03,USD
+2026-09-06,Azure,Azure Functions,59.85,USD
+2026-09-06,Azure,Managed Disks,42.03,USD
+2026-09-06,Azure,Azure Monitor,34.96,USD
+2026-09-07,Azure,Virtual Machines,129.47,USD
+2026-09-07,Azure,Blob Storage,129.17,USD
+2026-09-07,Azure,Azure SQL Database,112.67,USD
+2026-09-07,Azure,Azure Functions,34.31,USD
+2026-09-07,Azure,Managed Disks,108.54,USD
+2026-09-07,Azure,Azure Monitor,91.63,USD
+2026-09-08,Azure,Virtual Machines,120.19,USD
+2026-09-08,Azure,Blob Storage,130.35,USD
+2026-09-08,Azure,Azure SQL Database,91.65,USD
+2026-09-08,Azure,Azure Functions,98.44,USD
+2026-09-08,Azure,Managed Disks,115.93,USD
+2026-09-08,Azure,Azure Monitor,87.36,USD
+2026-09-09,Azure,Virtual Machines,28.21,USD
+2026-09-09,Azure,Blob Storage,54.02,USD
+2026-09-09,Azure,Azure SQL Database,27.38,USD
+2026-09-09,Azure,Azure Functions,59.19,USD
+2026-09-09,Azure,Managed Disks,31.03,USD
+2026-09-09,Azure,Azure Monitor,34.34,USD
+2026-09-10,Azure,Virtual Machines,137.22,USD
+2026-09-10,Azure,Blob Storage,84.64,USD
+2026-09-10,Azure,Azure SQL Database,102.81,USD
+2026-09-10,Azure,Azure Functions,133.72,USD
+2026-09-10,Azure,Managed Disks,132.88,USD
+2026-09-10,Azure,Azure Monitor,61.2,USD
+2026-09-11,Azure,Virtual Machines,32.67,USD
+2026-09-11,Azure,Blob Storage,38.8,USD
+2026-09-11,Azure,Azure SQL Database,70.19,USD
+2026-09-11,Azure,Azure Functions,74.38,USD
+2026-09-11,Azure,Managed Disks,50.91,USD
+2026-09-11,Azure,Azure Monitor,77.83,USD
+2026-09-12,Azure,Virtual Machines,38.57,USD
+2026-09-12,Azure,Blob Storage,54.7,USD
+2026-09-12,Azure,Azure SQL Database,66.49,USD
+2026-09-12,Azure,Azure Functions,129.82,USD
+2026-09-12,Azure,Managed Disks,23.93,USD
+2026-09-12,Azure,Azure Monitor,98.85,USD
+2026-09-13,Azure,Virtual Machines,121.23,USD
+2026-09-13,Azure,Blob Storage,158.4,USD
+2026-09-13,Azure,Azure SQL Database,65.43,USD
+2026-09-13,Azure,Azure Functions,36.08,USD
+2026-09-13,Azure,Managed Disks,157.38,USD
+2026-09-13,Azure,Azure Monitor,73.65,USD
+2026-09-14,Azure,Virtual Machines,131.13,USD
+2026-09-14,Azure,Blob Storage,77.01,USD
+2026-09-14,Azure,Azure SQL Database,134.27,USD
+2026-09-14,Azure,Azure Functions,139.97,USD
+2026-09-14,Azure,Managed Disks,110.26,USD
+2026-09-14,Azure,Azure Monitor,100.8,USD
+2026-09-15,Azure,Virtual Machines,63.35,USD
+2026-09-15,Azure,Blob Storage,38.47,USD
+2026-09-15,Azure,Azure SQL Database,142.41,USD
+2026-09-15,Azure,Azure Functions,42.28,USD
+2026-09-15,Azure,Managed Disks,34.17,USD
+2026-09-15,Azure,Azure Monitor,36.74,USD
+2026-09-16,Azure,Virtual Machines,148.3,USD
+2026-09-16,Azure,Blob Storage,23.28,USD
+2026-09-16,Azure,Azure SQL Database,101.97,USD
+2026-09-16,Azure,Azure Functions,59.66,USD
+2026-09-16,Azure,Managed Disks,141.96,USD
+2026-09-16,Azure,Azure Monitor,108.43,USD
+2026-09-17,Azure,Virtual Machines,74.16,USD
+2026-09-17,Azure,Blob Storage,96.6,USD
+2026-09-17,Azure,Azure SQL Database,71.06,USD
+2026-09-17,Azure,Azure Functions,114.91,USD
+2026-09-17,Azure,Managed Disks,82.61,USD
+2026-09-17,Azure,Azure Monitor,123.57,USD
+2026-09-18,Azure,Virtual Machines,121.77,USD
+2026-09-18,Azure,Blob Storage,170.86,USD
+2026-09-18,Azure,Azure SQL Database,73.03,USD
+2026-09-18,Azure,Azure Functions,70.41,USD
+2026-09-18,Azure,Managed Disks,164.07,USD
+2026-09-18,Azure,Azure Monitor,106.2,USD
+2026-09-19,Azure,Virtual Machines,55.47,USD
+2026-09-19,Azure,Blob Storage,136.55,USD
+2026-09-19,Azure,Azure SQL Database,37.95,USD
+2026-09-19,Azure,Azure Functions,119.42,USD
+2026-09-19,Azure,Managed Disks,108.37,USD
+2026-09-19,Azure,Azure Monitor,118.27,USD
+2026-09-20,Azure,Virtual Machines,90.6,USD
+2026-09-20,Azure,Blob Storage,47.91,USD
+2026-09-20,Azure,Azure SQL Database,53.06,USD
+2026-09-20,Azure,Azure Functions,26.95,USD
+2026-09-20,Azure,Managed Disks,60.67,USD
+2026-09-20,Azure,Azure Monitor,55.77,USD
+2026-09-21,Azure,Virtual Machines,160.14,USD
+2026-09-21,Azure,Blob Storage,116.67,USD
+2026-09-21,Azure,Azure SQL Database,34.66,USD
+2026-09-21,Azure,Azure Functions,137.9,USD
+2026-09-21,Azure,Managed Disks,41.17,USD
+2026-09-21,Azure,Azure Monitor,62.82,USD
+2026-09-22,Azure,Virtual Machines,27.34,USD
+2026-09-22,Azure,Blob Storage,131.05,USD
+2026-09-22,Azure,Azure SQL Database,115.81,USD
+2026-09-22,Azure,Azure Functions,31.53,USD
+2026-09-22,Azure,Managed Disks,48.45,USD
+2026-09-22,Azure,Azure Monitor,83.34,USD
+2026-09-23,Azure,Virtual Machines,67.06,USD
+2026-09-23,Azure,Blob Storage,143.0,USD
+2026-09-23,Azure,Azure SQL Database,22.27,USD
+2026-09-23,Azure,Azure Functions,44.12,USD
+2026-09-23,Azure,Managed Disks,79.28,USD
+2026-09-23,Azure,Azure Monitor,49.56,USD
+2026-09-24,Azure,Virtual Machines,88.74,USD
+2026-09-24,Azure,Blob Storage,121.34,USD
+2026-09-24,Azure,Azure SQL Database,88.65,USD
+2026-09-24,Azure,Azure Functions,151.7,USD
+2026-09-24,Azure,Managed Disks,69.91,USD
+2026-09-24,Azure,Azure Monitor,122.39,USD
+2026-09-25,Azure,Virtual Machines,42.72,USD
+2026-09-25,Azure,Blob Storage,114.9,USD
+2026-09-25,Azure,Azure SQL Database,121.2,USD
+2026-09-25,Azure,Azure Functions,131.61,USD
+2026-09-25,Azure,Managed Disks,51.7,USD
+2026-09-25,Azure,Azure Monitor,102.39,USD
+2026-09-26,Azure,Virtual Machines,47.54,USD
+2026-09-26,Azure,Blob Storage,86.68,USD
+2026-09-26,Azure,Azure SQL Database,114.85,USD
+2026-09-26,Azure,Azure Functions,31.32,USD
+2026-09-26,Azure,Managed Disks,72.93,USD
+2026-09-26,Azure,Azure Monitor,22.61,USD
+2026-09-27,Azure,Virtual Machines,29.86,USD
+2026-09-27,Azure,Blob Storage,104.02,USD
+2026-09-27,Azure,Azure SQL Database,81.65,USD
+2026-09-27,Azure,Azure Functions,103.36,USD
+2026-09-27,Azure,Managed Disks,73.87,USD
+2026-09-27,Azure,Azure Monitor,123.64,USD
+2026-09-28,Azure,Virtual Machines,34.27,USD
+2026-09-28,Azure,Blob Storage,148.83,USD
+2026-09-28,Azure,Azure SQL Database,130.12,USD
+2026-09-28,Azure,Azure Functions,146.36,USD
+2026-09-28,Azure,Managed Disks,99.05,USD
+2026-09-28,Azure,Azure Monitor,98.05,USD
+2026-09-29,Azure,Virtual Machines,95.23,USD
+2026-09-29,Azure,Blob Storage,111.0,USD
+2026-09-29,Azure,Azure SQL Database,84.41,USD
+2026-09-29,Azure,Azure Functions,32.37,USD
+2026-09-29,Azure,Managed Disks,62.3,USD
+2026-09-29,Azure,Azure Monitor,81.12,USD
+2026-09-30,Azure,Virtual Machines,53.67,USD
+2026-09-30,Azure,Blob Storage,125.25,USD
+2026-09-30,Azure,Azure SQL Database,136.25,USD
+2026-09-30,Azure,Azure Functions,173.81,USD
+2026-09-30,Azure,Managed Disks,31.39,USD
+2026-09-30,Azure,Azure Monitor,75.33,USD
+2026-10-01,Azure,Virtual Machines,127.94,USD
+2026-10-01,Azure,Blob Storage,40.22,USD
+2026-10-01,Azure,Azure SQL Database,98.95,USD
+2026-10-01,Azure,Azure Functions,31.94,USD
+2026-10-01,Azure,Managed Disks,64.45,USD
+2026-10-01,Azure,Azure Monitor,97.68,USD
+2026-10-02,Azure,Virtual Machines,127.72,USD
+2026-10-02,Azure,Blob Storage,75.56,USD
+2026-10-02,Azure,Azure SQL Database,95.72,USD
+2026-10-02,Azure,Azure Functions,76.04,USD
+2026-10-02,Azure,Managed Disks,44.34,USD
+2026-10-02,Azure,Azure Monitor,115.59,USD
+2026-10-03,Azure,Virtual Machines,72.04,USD
+2026-10-03,Azure,Blob Storage,48.85,USD
+2026-10-03,Azure,Azure SQL Database,93.51,USD
+2026-10-03,Azure,Azure Functions,66.64,USD
+2026-10-03,Azure,Managed Disks,71.2,USD
+2026-10-03,Azure,Azure Monitor,128.36,USD
+2026-10-04,Azure,Virtual Machines,133.82,USD
+2026-10-04,Azure,Blob Storage,33.7,USD
+2026-10-04,Azure,Azure SQL Database,120.54,USD
+2026-10-04,Azure,Azure Functions,53.82,USD
+2026-10-04,Azure,Managed Disks,104.65,USD
+2026-10-04,Azure,Azure Monitor,141.75,USD
+2026-10-05,Azure,Virtual Machines,148.29,USD
+2026-10-05,Azure,Blob Storage,123.61,USD
+2026-10-05,Azure,Azure SQL Database,31.5,USD
+2026-10-05,Azure,Azure Functions,42.47,USD
+2026-10-05,Azure,Managed Disks,23.92,USD
+2026-10-05,Azure,Azure Monitor,76.21,USD
+2026-10-06,Azure,Virtual Machines,95.82,USD
+2026-10-06,Azure,Blob Storage,28.83,USD
+2026-10-06,Azure,Azure SQL Database,163.07,USD
+2026-10-06,Azure,Azure Functions,97.85,USD
+2026-10-06,Azure,Managed Disks,105.37,USD
+2026-10-06,Azure,Azure Monitor,154.75,USD
+2026-10-07,Azure,Virtual Machines,84.15,USD
+2026-10-07,Azure,Blob Storage,74.58,USD
+2026-10-07,Azure,Azure SQL Database,128.22,USD
+2026-10-07,Azure,Azure Functions,51.8,USD
+2026-10-07,Azure,Managed Disks,88.77,USD
+2026-10-07,Azure,Azure Monitor,23.11,USD
+2026-10-08,Azure,Virtual Machines,34.54,USD
+2026-10-08,Azure,Blob Storage,67.13,USD
+2026-10-08,Azure,Azure SQL Database,76.44,USD
+2026-10-08,Azure,Azure Functions,155.21,USD
+2026-10-08,Azure,Managed Disks,55.42,USD
+2026-10-08,Azure,Azure Monitor,77.87,USD
+2026-10-09,Azure,Virtual Machines,60.16,USD
+2026-10-09,Azure,Blob Storage,74.02,USD
+2026-10-09,Azure,Azure SQL Database,122.71,USD
+2026-10-09,Azure,Azure Functions,114.96,USD
+2026-10-09,Azure,Managed Disks,112.19,USD
+2026-10-09,Azure,Azure Monitor,105.4,USD
+2026-10-10,Azure,Virtual Machines,19.38,USD
+2026-10-10,Azure,Blob Storage,106.56,USD
+2026-10-10,Azure,Azure SQL Database,115.82,USD
+2026-10-10,Azure,Azure Functions,78.28,USD
+2026-10-10,Azure,Managed Disks,89.06,USD
+2026-10-10,Azure,Azure Monitor,68.19,USD
+2026-10-11,Azure,Virtual Machines,92.87,USD
+2026-10-11,Azure,Blob Storage,100.21,USD
+2026-10-11,Azure,Azure SQL Database,24.3,USD
+2026-10-11,Azure,Azure Functions,76.66,USD
+2026-10-11,Azure,Managed Disks,48.51,USD
+2026-10-11,Azure,Azure Monitor,65.93,USD
+2026-10-12,Azure,Virtual Machines,132.11,USD
+2026-10-12,Azure,Blob Storage,125.12,USD
+2026-10-12,Azure,Azure SQL Database,69.85,USD
+2026-10-12,Azure,Azure Functions,60.66,USD
+2026-10-12,Azure,Managed Disks,49.25,USD
+2026-10-12,Azure,Azure Monitor,29.85,USD
+2026-10-13,Azure,Virtual Machines,73.17,USD
+2026-10-13,Azure,Blob Storage,59.91,USD
+2026-10-13,Azure,Azure SQL Database,37.95,USD
+2026-10-13,Azure,Azure Functions,87.98,USD
+2026-10-13,Azure,Managed Disks,119.12,USD
+2026-10-13,Azure,Azure Monitor,86.87,USD
+2026-10-14,Azure,Virtual Machines,48.65,USD
+2026-10-14,Azure,Blob Storage,143.19,USD
+2026-10-14,Azure,Azure SQL Database,129.07,USD
+2026-10-14,Azure,Azure Functions,54.03,USD
+2026-10-14,Azure,Managed Disks,97.23,USD
+2026-10-14,Azure,Azure Monitor,103.82,USD
+2026-10-15,Azure,Virtual Machines,102.24,USD
+2026-10-15,Azure,Blob Storage,87.65,USD
+2026-10-15,Azure,Azure SQL Database,126.67,USD
+2026-10-15,Azure,Azure Functions,64.88,USD
+2026-10-15,Azure,Managed Disks,82.64,USD
+2026-10-15,Azure,Azure Monitor,76.24,USD
+2026-10-16,Azure,Virtual Machines,94.6,USD
+2026-10-16,Azure,Blob Storage,67.39,USD
+2026-10-16,Azure,Azure SQL Database,91.92,USD
+2026-10-16,Azure,Azure Functions,140.53,USD
+2026-10-16,Azure,Managed Disks,115.4,USD
+2026-10-16,Azure,Azure Monitor,156.55,USD
+2026-10-17,Azure,Virtual Machines,46.04,USD
+2026-10-17,Azure,Blob Storage,69.55,USD
+2026-10-17,Azure,Azure SQL Database,35.29,USD
+2026-10-17,Azure,Azure Functions,80.18,USD
+2026-10-17,Azure,Managed Disks,99.43,USD
+2026-10-17,Azure,Azure Monitor,65.47,USD
+2026-10-18,Azure,Virtual Machines,49.2,USD
+2026-10-18,Azure,Blob Storage,106.79,USD
+2026-10-18,Azure,Azure SQL Database,72.1,USD
+2026-10-18,Azure,Azure Functions,96.65,USD
+2026-10-18,Azure,Managed Disks,66.42,USD
+2026-10-18,Azure,Azure Monitor,72.61,USD
+2026-10-19,Azure,Virtual Machines,152.32,USD
+2026-10-19,Azure,Blob Storage,134.72,USD
+2026-10-19,Azure,Azure SQL Database,88.72,USD
+2026-10-19,Azure,Azure Functions,96.96,USD
+2026-10-19,Azure,Managed Disks,135.23,USD
+2026-10-19,Azure,Azure Monitor,103.51,USD
+2026-10-20,Azure,Virtual Machines,83.22,USD
+2026-10-20,Azure,Blob Storage,106.65,USD
+2026-10-20,Azure,Azure SQL Database,111.13,USD
+2026-10-20,Azure,Azure Functions,88.17,USD
+2026-10-20,Azure,Managed Disks,120.91,USD
+2026-10-20,Azure,Azure Monitor,20.79,USD
+2026-10-21,Azure,Virtual Machines,42.71,USD
+2026-10-21,Azure,Blob Storage,81.42,USD
+2026-10-21,Azure,Azure SQL Database,160.5,USD
+2026-10-21,Azure,Azure Functions,95.41,USD
+2026-10-21,Azure,Managed Disks,33.51,USD
+2026-10-21,Azure,Azure Monitor,66.3,USD
+2026-10-22,Azure,Virtual Machines,81.73,USD
+2026-10-22,Azure,Blob Storage,49.52,USD
+2026-10-22,Azure,Azure SQL Database,60.74,USD
+2026-10-22,Azure,Azure Functions,130.99,USD
+2026-10-22,Azure,Managed Disks,111.64,USD
+2026-10-22,Azure,Azure Monitor,87.09,USD
+2026-10-23,Azure,Virtual Machines,53.26,USD
+2026-10-23,Azure,Blob Storage,58.55,USD
+2026-10-23,Azure,Azure SQL Database,53.74,USD
+2026-10-23,Azure,Azure Functions,50.8,USD
+2026-10-23,Azure,Managed Disks,57.51,USD
+2026-10-23,Azure,Azure Monitor,158.09,USD
+2026-10-24,Azure,Virtual Machines,47.15,USD
+2026-10-24,Azure,Blob Storage,102.77,USD
+2026-10-24,Azure,Azure SQL Database,166.2,USD
+2026-10-24,Azure,Azure Functions,161.66,USD
+2026-10-24,Azure,Managed Disks,52.85,USD
+2026-10-24,Azure,Azure Monitor,105.9,USD
+2026-10-25,Azure,Virtual Machines,69.96,USD
+2026-10-25,Azure,Blob Storage,72.47,USD
+2026-10-25,Azure,Azure SQL Database,105.61,USD
+2026-10-25,Azure,Azure Functions,94.47,USD
+2026-10-25,Azure,Managed Disks,103.51,USD
+2026-10-25,Azure,Azure Monitor,55.02,USD
+2026-10-26,Azure,Virtual Machines,93.95,USD
+2026-10-26,Azure,Blob Storage,25.89,USD
+2026-10-26,Azure,Azure SQL Database,95.16,USD
+2026-10-26,Azure,Azure Functions,96.41,USD
+2026-10-26,Azure,Managed Disks,107.26,USD
+2026-10-26,Azure,Azure Monitor,85.58,USD
+2026-10-27,Azure,Virtual Machines,132.98,USD
+2026-10-27,Azure,Blob Storage,54.45,USD
+2026-10-27,Azure,Azure SQL Database,65.36,USD
+2026-10-27,Azure,Azure Functions,115.36,USD
+2026-10-27,Azure,Managed Disks,95.97,USD
+2026-10-27,Azure,Azure Monitor,133.92,USD
+2026-10-28,Azure,Virtual Machines,120.69,USD
+2026-10-28,Azure,Blob Storage,117.22,USD
+2026-10-28,Azure,Azure SQL Database,167.31,USD
+2026-10-28,Azure,Azure Functions,71.48,USD
+2026-10-28,Azure,Managed Disks,167.96,USD
+2026-10-28,Azure,Azure Monitor,161.54,USD
+2026-10-29,Azure,Virtual Machines,21.78,USD
+2026-10-29,Azure,Blob Storage,40.51,USD
+2026-10-29,Azure,Azure SQL Database,68.14,USD
+2026-10-29,Azure,Azure Functions,90.41,USD
+2026-10-29,Azure,Managed Disks,161.95,USD
+2026-10-29,Azure,Azure Monitor,70.91,USD
+2026-10-30,Azure,Virtual Machines,29.97,USD
+2026-10-30,Azure,Blob Storage,71.92,USD
+2026-10-30,Azure,Azure SQL Database,48.39,USD
+2026-10-30,Azure,Azure Functions,126.13,USD
+2026-10-30,Azure,Managed Disks,103.07,USD
+2026-10-30,Azure,Azure Monitor,152.15,USD
+2026-10-31,Azure,Virtual Machines,128.29,USD
+2026-10-31,Azure,Blob Storage,33.39,USD
+2026-10-31,Azure,Azure SQL Database,37.69,USD
+2026-10-31,Azure,Azure Functions,55.81,USD
+2026-10-31,Azure,Managed Disks,48.2,USD
+2026-10-31,Azure,Azure Monitor,139.42,USD
+2026-11-01,Azure,Virtual Machines,64.54,USD
+2026-11-01,Azure,Blob Storage,22.81,USD
+2026-11-01,Azure,Azure SQL Database,90.78,USD
+2026-11-01,Azure,Azure Functions,32.64,USD
+2026-11-01,Azure,Managed Disks,72.78,USD
+2026-11-01,Azure,Azure Monitor,147.47,USD
+2026-11-02,Azure,Virtual Machines,51.18,USD
+2026-11-02,Azure,Blob Storage,127.69,USD
+2026-11-02,Azure,Azure SQL Database,88.68,USD
+2026-11-02,Azure,Azure Functions,32.18,USD
+2026-11-02,Azure,Managed Disks,122.16,USD
+2026-11-02,Azure,Azure Monitor,75.52,USD
+2026-11-03,Azure,Virtual Machines,82.43,USD
+2026-11-03,Azure,Blob Storage,94.36,USD
+2026-11-03,Azure,Azure SQL Database,57.49,USD
+2026-11-03,Azure,Azure Functions,111.18,USD
+2026-11-03,Azure,Managed Disks,84.44,USD
+2026-11-03,Azure,Azure Monitor,30.93,USD
+2026-11-04,Azure,Virtual Machines,28.56,USD
+2026-11-04,Azure,Blob Storage,88.21,USD
+2026-11-04,Azure,Azure SQL Database,36.77,USD
+2026-11-04,Azure,Azure Functions,74.19,USD
+2026-11-04,Azure,Managed Disks,48.26,USD
+2026-11-04,Azure,Azure Monitor,31.95,USD
+2026-11-05,Azure,Virtual Machines,122.8,USD
+2026-11-05,Azure,Blob Storage,85.22,USD
+2026-11-05,Azure,Azure SQL Database,27.09,USD
+2026-11-05,Azure,Azure Functions,136.05,USD
+2026-11-05,Azure,Managed Disks,80.52,USD
+2026-11-05,Azure,Azure Monitor,120.62,USD
+2026-11-06,Azure,Virtual Machines,24.28,USD
+2026-11-06,Azure,Blob Storage,33.88,USD
+2026-11-06,Azure,Azure SQL Database,117.1,USD
+2026-11-06,Azure,Azure Functions,114.91,USD
+2026-11-06,Azure,Managed Disks,81.02,USD
+2026-11-06,Azure,Azure Monitor,142.43,USD
+2026-11-07,Azure,Virtual Machines,100.65,USD
+2026-11-07,Azure,Blob Storage,142.06,USD
+2026-11-07,Azure,Azure SQL Database,154.7,USD
+2026-11-07,Azure,Azure Functions,73.87,USD
+2026-11-07,Azure,Managed Disks,107.7,USD
+2026-11-07,Azure,Azure Monitor,98.57,USD
+2026-11-08,Azure,Virtual Machines,43.85,USD
+2026-11-08,Azure,Blob Storage,96.84,USD
+2026-11-08,Azure,Azure SQL Database,39.23,USD
+2026-11-08,Azure,Azure Functions,21.1,USD
+2026-11-08,Azure,Managed Disks,109.47,USD
+2026-11-08,Azure,Azure Monitor,100.68,USD
+2026-11-09,Azure,Virtual Machines,48.97,USD
+2026-11-09,Azure,Blob Storage,65.6,USD
+2026-11-09,Azure,Azure SQL Database,96.56,USD
+2026-11-09,Azure,Azure Functions,121.19,USD
+2026-11-09,Azure,Managed Disks,137.94,USD
+2026-11-09,Azure,Azure Monitor,19.44,USD
+2026-11-10,Azure,Virtual Machines,26.94,USD
+2026-11-10,Azure,Blob Storage,105.66,USD
+2026-11-10,Azure,Azure SQL Database,28.86,USD
+2026-11-10,Azure,Azure Functions,64.61,USD
+2026-11-10,Azure,Managed Disks,55.26,USD
+2026-11-10,Azure,Azure Monitor,27.38,USD
+2026-11-11,Azure,Virtual Machines,64.88,USD
+2026-11-11,Azure,Blob Storage,106.76,USD
+2026-11-11,Azure,Azure SQL Database,104.47,USD
+2026-11-11,Azure,Azure Functions,56.8,USD
+2026-11-11,Azure,Managed Disks,41.1,USD
+2026-11-11,Azure,Azure Monitor,44.85,USD
+2026-11-12,Azure,Virtual Machines,32.93,USD
+2026-11-12,Azure,Blob Storage,156.48,USD
+2026-11-12,Azure,Azure SQL Database,98.43,USD
+2026-11-12,Azure,Azure Functions,100.38,USD
+2026-11-12,Azure,Managed Disks,152.17,USD
+2026-11-12,Azure,Azure Monitor,113.3,USD
+2026-11-13,Azure,Virtual Machines,63.72,USD
+2026-11-13,Azure,Blob Storage,75.96,USD
+2026-11-13,Azure,Azure SQL Database,92.95,USD
+2026-11-13,Azure,Azure Functions,64.0,USD
+2026-11-13,Azure,Managed Disks,145.45,USD
+2026-11-13,Azure,Azure Monitor,110.53,USD
+2026-11-14,Azure,Virtual Machines,78.92,USD
+2026-11-14,Azure,Blob Storage,45.45,USD
+2026-11-14,Azure,Azure SQL Database,121.65,USD
+2026-11-14,Azure,Azure Functions,108.91,USD
+2026-11-14,Azure,Managed Disks,100.06,USD
+2026-11-14,Azure,Azure Monitor,58.71,USD
+2026-11-15,Azure,Virtual Machines,113.08,USD
+2026-11-15,Azure,Blob Storage,49.12,USD
+2026-11-15,Azure,Azure SQL Database,116.85,USD
+2026-11-15,Azure,Azure Functions,94.49,USD
+2026-11-15,Azure,Managed Disks,74.85,USD
+2026-11-15,Azure,Azure Monitor,25.84,USD
+2026-11-16,Azure,Virtual Machines,122.86,USD
+2026-11-16,Azure,Blob Storage,148.68,USD
+2026-11-16,Azure,Azure SQL Database,53.69,USD
+2026-11-16,Azure,Azure Functions,54.32,USD
+2026-11-16,Azure,Managed Disks,101.88,USD
+2026-11-16,Azure,Azure Monitor,70.42,USD
+2026-11-17,Azure,Virtual Machines,60.34,USD
+2026-11-17,Azure,Blob Storage,86.57,USD
+2026-11-17,Azure,Azure SQL Database,39.14,USD
+2026-11-17,Azure,Azure Functions,92.05,USD
+2026-11-17,Azure,Managed Disks,131.68,USD
+2026-11-17,Azure,Azure Monitor,75.66,USD
+2026-11-18,Azure,Virtual Machines,41.86,USD
+2026-11-18,Azure,Blob Storage,63.27,USD
+2026-11-18,Azure,Azure SQL Database,92.15,USD
+2026-11-18,Azure,Azure Functions,37.1,USD
+2026-11-18,Azure,Managed Disks,78.63,USD
+2026-11-18,Azure,Azure Monitor,90.16,USD
+2026-11-19,Azure,Virtual Machines,98.45,USD
+2026-11-19,Azure,Blob Storage,150.47,USD
+2026-11-19,Azure,Azure SQL Database,103.03,USD
+2026-11-19,Azure,Azure Functions,46.81,USD
+2026-11-19,Azure,Managed Disks,45.71,USD
+2026-11-19,Azure,Azure Monitor,97.4,USD
+2026-11-20,Azure,Virtual Machines,95.61,USD
+2026-11-20,Azure,Blob Storage,22.48,USD
+2026-11-20,Azure,Azure SQL Database,153.23,USD
+2026-11-20,Azure,Azure Functions,118.17,USD
+2026-11-20,Azure,Managed Disks,83.7,USD
+2026-11-20,Azure,Azure Monitor,54.24,USD
+2026-11-21,Azure,Virtual Machines,21.24,USD
+2026-11-21,Azure,Blob Storage,71.75,USD
+2026-11-21,Azure,Azure SQL Database,111.65,USD
+2026-11-21,Azure,Azure Functions,82.41,USD
+2026-11-21,Azure,Managed Disks,21.29,USD
+2026-11-21,Azure,Azure Monitor,21.79,USD
+2026-11-22,Azure,Virtual Machines,66.36,USD
+2026-11-22,Azure,Blob Storage,25.01,USD
+2026-11-22,Azure,Azure SQL Database,120.8,USD
+2026-11-22,Azure,Azure Functions,116.54,USD
+2026-11-22,Azure,Managed Disks,27.95,USD
+2026-11-22,Azure,Azure Monitor,45.43,USD
+2026-11-23,Azure,Virtual Machines,114.25,USD
+2026-11-23,Azure,Blob Storage,67.96,USD
+2026-11-23,Azure,Azure SQL Database,74.68,USD
+2026-11-23,Azure,Azure Functions,132.42,USD
+2026-11-23,Azure,Managed Disks,124.08,USD
+2026-11-23,Azure,Azure Monitor,120.03,USD
+2026-11-24,Azure,Virtual Machines,99.44,USD
+2026-11-24,Azure,Blob Storage,70.77,USD
+2026-11-24,Azure,Azure SQL Database,21.94,USD
+2026-11-24,Azure,Azure Functions,42.28,USD
+2026-11-24,Azure,Managed Disks,85.1,USD
+2026-11-24,Azure,Azure Monitor,106.96,USD
